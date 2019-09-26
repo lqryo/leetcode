@@ -1,5 +1,5 @@
 /*
-******正确版本*****
+******姝ｇ‘鐗堟湰*****
 */
 #include <vector>
 #include <map>
@@ -24,7 +24,7 @@ ListNode* Solution::addTwoNumbers(ListNode* l1, ListNode* l2)
 
 	int carry = 0;
 	int sum;
-	while (l1 != NULL || l2 != NULL || carry) //注意要考虑进位
+	while (l1 != NULL || l2 != NULL || carry) //娉ㄦ剰瑕佽�冭檻杩涗綅
 	{
 		if (l1 != NULL && l2 != NULL)
 		{
